@@ -1,21 +1,19 @@
 {
-    "name": "vendor_slug/package_slug",
-    "description": ":package_description",
+    "name": "evin-ngoa/evin-unit-conversions",
+    "description": "This is a simple unit conversion php package",
     "keywords": [
-        ":vendor_name",
-        "package_slug"
+        "Evin-Ngoa",
+        "evin-unit-conversions"
     ],
-    "homepage": "https://github.com/vendor_slug/package_slug",
+    "homepage": "https://github.com/evin-ngoa/evin-unit-conversions",
     "license": "MIT",
-    "authors": [
-        {
-            "name": ":author_name",
-            "email": "author@domain.com",
-            "role": "Developer"
-        }
-    ],
+    "authors": [{
+        "name": "Evingtone Mwailongo",
+        "email": "evingtone.ngoa@gmail.com",
+        "role": "Developer"
+    }],
     "require": {
-        "php": "^8.0"
+        "php": "^7.0"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.0",
@@ -25,12 +23,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "EvinNgoa\\EvinUnitConversions\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "EvinNgoa\\EvinUnitConversions\\Tests\\": "tests"
         }
     },
     "scripts": {
