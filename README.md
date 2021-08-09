@@ -1,6 +1,6 @@
 # This is a simple unit conversion php package
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/evin-ngoa/evin-unit-conversions.svg?style=flat-square)](https://packagist.org/p2/evin-ngoa/evin-unit-conversions)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/evin-ngoa/evin-unit-conversions.svg?style=flat-square)](https://packagist.org/packages/evin-ngoa/evin-unit-conversions)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/evin-ngoa/evin-unit-conversions/run-tests?label=tests)](https://github.com/evin-ngoa/evin-unit-conversions/actions?query=workflow%3ATests+branch%3Amain)
 [![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/evin-ngoa/evin-unit-conversions/Check%20&%20fix%20styling?label=code%20style)](https://github.com/evin-ngoa/evin-unit-conversions/actions?query=workflow%3A"Check+%26+fix+styling"+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/evin-ngoa/evin-unit-conversions.svg?style=flat-square)](https://packagist.org/packages/evin-ngoa/evin-unit-conversions)
